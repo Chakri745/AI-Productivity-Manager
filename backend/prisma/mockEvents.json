@@ -1,0 +1,82 @@
+[
+  {
+    "id": "evt-email-1",
+    "userId": "user-1",
+    "type": "email",
+    "title": "Client kickoff email: Project Atlas requirements",
+    "timestamp": "2026-01-06T14:05:00.000Z",
+    "metadata": { "from": "client@acme.com", "priority": "high" }
+  },
+  {
+    "id": "evt-meeting-1",
+    "userId": "user-1",
+    "type": "meeting",
+    "title": "Project Atlas design review",
+    "timestamp": "2026-01-06T16:00:00.000Z",
+    "metadata": { "attendees": ["design", "eng"], "notes": "Finalize scope" }
+  },
+  {
+    "id": "evt-task-1",
+    "userId": "user-1",
+    "type": "task",
+    "title": "Prepare Project Atlas milestone plan",
+    "timestamp": "2026-01-05T10:00:00.000Z",
+    "metadata": { "dueDate": "2026-01-09T17:00:00.000Z", "status": "in_progress", "priority": "high" }
+  },
+  {
+    "id": "evt-doc-1",
+    "userId": "user-1",
+    "type": "document",
+    "title": "Draft: Project Atlas architecture overview",
+    "timestamp": "2026-01-04T18:30:00.000Z",
+    "metadata": { "link": "https://docs.example.com/atlas-arch", "priority": "medium" }
+  },
+  {
+    "id": "evt-task-2",
+    "userId": "user-1",
+    "type": "task",
+    "title": "QA checklist for Atlas MVP",
+    "timestamp": "2026-01-03T12:00:00.000Z",
+    "metadata": { "dueDate": "2026-01-11T12:00:00.000Z", "status": "todo", "priority": "medium" }
+  },
+  {
+    "id": "evt-email-2",
+    "userId": "user-1",
+    "type": "email",
+    "title": "Follow-up: Marketing launch assets for Nova",
+    "timestamp": "2026-01-06T09:20:00.000Z",
+    "metadata": { "priority": "medium" }
+  },
+  {
+    "id": "evt-meeting-2",
+    "userId": "user-1",
+    "type": "meeting",
+    "title": "Nova go-to-market sync",
+    "timestamp": "2026-01-05T15:00:00.000Z",
+    "metadata": { "attendees": ["marketing", "product"], "notes": "Update timeline" }
+  },
+  {
+    "id": "evt-task-3",
+    "userId": "user-1",
+    "type": "task",
+    "title": "Update Nova pricing page copy",
+    "timestamp": "2026-01-04T11:30:00.000Z",
+    "metadata": { "dueDate": "2026-01-10T18:00:00.000Z", "status": "todo", "priority": "high" }
+  },
+  {
+    "id": "evt-doc-2",
+    "userId": "user-1",
+    "type": "document",
+    "title": "Nova launch plan v2",
+    "timestamp": "2026-01-02T17:45:00.000Z",
+    "metadata": { "link": "https://docs.example.com/nova-plan", "priority": "high" }
+  },
+  {
+    "id": "evt-task-4",
+    "userId": "user-1",
+    "type": "task",
+    "title": "Respond to security review comments",
+    "timestamp": "2026-01-01T10:15:00.000Z",
+    "metadata": { "dueDate": "2026-01-12T12:00:00.000Z", "status": "todo", "priority": "high" }
+  }
+]

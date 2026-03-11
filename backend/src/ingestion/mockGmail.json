@@ -1,0 +1,13 @@
+[
+  {
+    "id": "demo-gmail-1",
+    "threadId": "thread-1",
+    "subject": "Project Atlas status update",
+    "snippet": "Quick check-in on the Atlas timeline...",
+    "internalDate": "2026-01-06T08:30:00.000Z",
+    "from": "pm@acme.com",
+    "to": ["you@example.com"],
+    "labels": ["Project Atlas"],
+    "url": "https://mail.example.com/thread-1"
+  }
+]

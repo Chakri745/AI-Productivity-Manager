@@ -1,0 +1,10 @@
+[
+  {
+    "id": "demo-cal-1",
+    "summary": "Atlas milestone planning",
+    "start": { "dateTime": "2026-01-06T09:00:00.000Z" },
+    "attendees": [{ "email": "you@example.com" }, { "email": "pm@acme.com" }],
+    "hangoutLink": "https://meet.example.com/atlas",
+    "projectHint": "Project Atlas"
+  }
+]
